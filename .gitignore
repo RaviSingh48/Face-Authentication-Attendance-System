@@ -1,0 +1,13 @@
+# Virtual environment
+venv/
+venv310/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+
+# Attendance data (optional but recommended)
+data/attendance.csv
